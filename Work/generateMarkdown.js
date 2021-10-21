@@ -1,4 +1,4 @@
-function generateMarkdown(data) { // data is an object
+function generateMarkdown(data) {
 
   let licenseBadge = ''
 
